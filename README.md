@@ -108,6 +108,6 @@ Pillow
 
 ## 🚫 Disclaimer
 
-*This notebook and the resulting model are for academic and research purposes only. They are ********not******** intended for clinical diagnosis or treatment.*
+*This notebook and the resulting model are for academic and research purposes only.This is a prototype model to assist the domain experts but  ********not******** diagnostic tool.*
 
 ---
