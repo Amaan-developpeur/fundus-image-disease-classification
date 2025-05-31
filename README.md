@@ -23,18 +23,8 @@ fundus-disease-classification/
 2. Unzip or extract so that the top-level folder is named `split`, containing `train/`, `val/`, and `test/` subfolders.
 3. Place the entire `split/` folder at the root of this repository, alongside `notebook.ipynb`.
 
-The final layout should look like:
 
-```
-fundus-disease-classification/
-├── notebook.ipynb
-├── split/
-│   ├── train/
-│   ├── val/
-│   └── test/
-├── requirements.txt
-└── .gitignore
-```
+
 
 ## ⚙️ Setup
 
