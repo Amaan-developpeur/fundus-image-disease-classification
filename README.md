@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook that implements a deep learning pipeline to classify retinal fundus images into four categories: Cataract, Diabetic Retinopathy, Glaucoma, and Normal.
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 fundus-disease-classification/
@@ -15,7 +15,7 @@ fundus-disease-classification/
     └── test/              # Test images
 ```
 
-## 📥 Dataset
+## Dataset
 
 1. Download the dataset from:
 
@@ -26,7 +26,7 @@ fundus-disease-classification/
 
 
 
-## ⚙️ Setup
+## Setup
 
 1. **Clone this repository**
 
@@ -59,7 +59,7 @@ fundus-disease-classification/
    # notebook.ipynb  requirements.txt  split/
    ```
 
-## 🚀 Running the Notebook
+## Running the Notebook
 
 * Launch Jupyter Lab or Notebook:
 
@@ -68,7 +68,7 @@ fundus-disease-classification/
   ```
 * Open `notebook.ipynb` and run cells from top to bottom.
 
-## 📜 Notebook Outline
+## Notebook Outline
 
 1. **Step 1: Data Setup** — Verify folder structure and list classes.
 2. **Step 2: Data Inspection** — Image counts, sample viewing, blur & quality checks.
@@ -96,7 +96,7 @@ Pillow
 
 (Adjust versions as needed.)
 
-## 🚫 Disclaimer
+## Disclaimer
 
 *This notebook and the resulting model are for academic and research purposes only.This is a prototype model to assist the domain experts but  ********not******** diagnostic tool.*
 
