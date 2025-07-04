@@ -79,7 +79,7 @@ fundus-disease-classification/
 7. **Step 7: Evaluation & Interpretation** — Confusion matrices, classification reports, Grad-CAM.
 8. **Step 8: Conclusion & Future Work**
 
-## 📋 Requirements
+## Requirements
 
 Contents of `requirements.txt`:
 
